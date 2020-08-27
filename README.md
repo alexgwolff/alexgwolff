@@ -1,6 +1,6 @@
 ## Hi Devs! I'm Alex Wolff 👋
 
-###  About Me 👨🏽‍💻
+### 👨🏽‍💻 About Me 
 
 - Frontend Engineer
 - I'm brazilian. 
@@ -9,7 +9,7 @@
 - I'm know AngularJS, Vue, Web Components (W3C Spec), PWA.
 - Knowledge in English but not fluent
 
-### I'm interested in: 📚
+### I'm interested in: 
  - Build web components natives.
  - Build design system
  - React libs and React Components
