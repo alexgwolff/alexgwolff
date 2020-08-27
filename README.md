@@ -1,4 +1,5 @@
 ## Hi Devs! I'm Alex Wolff 👋
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alexgwolff/)
 
 ### 👨🏽‍💻 About Me 
 
@@ -19,4 +20,4 @@
  - Frontend Arch
  - Rust 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alexgwolff/)
+
