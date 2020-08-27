@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi Devs! I'm Alex Wolff 
 
-<!--
-**alexgwolff/alexgwolff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- Frontend Engineer
+- I'm brazilian. 
+- I'm work with React, Redux, Redux-Sagas, Recoil and other tools from React environment.
+- I'm know AngularJS, Vue, Web Components (W3C Spec), PWA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm interested in:
+ - Build web components natives.
+ - Build Design System
+ - React libs and React Components
+ - Native and new browsers API's
+ - Micro frontends
+
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/alexgwolff/)
